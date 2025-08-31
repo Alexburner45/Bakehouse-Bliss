@@ -31,7 +31,7 @@ A simple yet elegant restaurant menu webpage built with **HTML5**, featuring app
 ## ✍️ Author
 **Shivang Singh**  
 
-📫 Connect with me on [LinkedIn] https://www.linkedin.com/in/shivang-singh 
+📫 Connect with me on [LinkedIn] www.linkedin.com/in/shivang-singh-69a546373
 
 ---
 
